@@ -6,18 +6,25 @@ a team fortress 2 config
 * [valve developer community](https://developer.valvesoftware.com/wiki/Main_Page)  
   
 ### features
-* there aren't really any features that stand out here..
+* there aren't really any unique features that stand out here..
 * i guess it's a bit more approachable than mastercomfig?
+
+### benchmarks
+hardware: ubuntu 18.04, gtx 1050 ti (430.50), 16gb of ram, i7-8750h  
+note: these aren't exact averages, just numbers that i saw the framerate be around at in normal gameplay sessions  
+- **performance** preset: `~300` fps  
+- **default** config preset: `~240` fps  
+- **quality** preset: `~160` fps  
   
 ### launch options
 `-novid -high -reuse -softparticlesdefaultoff -gl_enablesamplerobjects`  
   
-`-high` - sets the game's priority to high   
-`-reuse` - reuse network sockets   
-`-softparticlesdefaultoff` - sets particles to be rendered without feathering (scene depth blending) by default.   
+`-high` - sets the game's priority to high  
+`-reuse` - reuse network sockets  
+`-softparticlesdefaultoff` - sets particles to be rendered without feathering (scene depth blending) by default   
 `-gl_enablesamplerobjects` - (linux) use opengl sampler objects for better texture preloading   
   
 ##### -dxlevel
-`81` - for weak hardware, a bit unstable
-`95` - most stable option
-`100` - for max quality
+`81` - for weak hardware (might crash sometimes)    
+`95` - most stable option  
+other versions might cause graphical issues or, in some cases, even crash the game.
