@@ -15,6 +15,7 @@ note: these aren't exact averages, just numbers that i saw the framerate be arou
 - **performance** preset: `~300` fps  
 - **default** config preset: `~240` fps  
 - **quality** preset: `~160` fps  
+  
 [more on presets here](https://github.com/buyBread/cumfig/wiki/presets)  
   
 ### launch options
