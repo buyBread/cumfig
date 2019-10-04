@@ -11,7 +11,7 @@ a team fortress 2 config
 
 ### benchmarks
 hardware: ubuntu 18.04, gtx 1050 ti (430.50), 16gb of ram, i7-8750h  
-note: these aren't exact averages, just numbers that i saw the framerate be around at in normal gameplay sessions  
+note: these aren't exact averages, just numbers that i saw the framerate be around at in normal gameplay sessions, also since opengl performs better than directx expect to see slightly lower framerates on windows    
 - **performance** preset: `~300` fps  
 - **default** config preset: `~240` fps  
 - **quality** preset: `~160` fps  
