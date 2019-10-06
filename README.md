@@ -11,8 +11,8 @@ a team fortress 2 config
 - **performance** preset: `~300` fps  
 - **default** config preset: `~240` fps  
 - **quality** preset: `~160` fps  
-
-[more on presets here](https://github.com/buyBread/cumfig/wiki/presets)  
+  
+you can find presets in the `main.cfg` file located in `cfg/cumfig/`  
   
 ### launch options
 `-novid -high -reuse -softparticlesdefaultoff -gl_enablesamplerobjects`  
